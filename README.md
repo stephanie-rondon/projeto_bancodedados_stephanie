@@ -1,1 +1,1 @@
-# projeto_bancodedados_doli
+# projeto_bancodedados_stephanie
